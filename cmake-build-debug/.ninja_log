@@ -1,0 +1,8 @@
+# ninja log v6
+8	1061	7446823055704587	CMakeFiles/leetcode.dir/main.cpp.obj	82db5ce52090c2fc
+4	359	7449261195571843	build.ninja	1d13941f05183645
+403	529	7449417340249949	leetcode.exe	f1c55811693e440f
+164	1190	7446823057258621	CMakeFiles/leetcode.dir/KthDistinctStringinanArray.cpp.obj	d95d9702bd5d2d9d
+4	403	7449417336244712	CMakeFiles/leetcode.dir/Day1_RomantoInteger.cpp.obj	baa6629fb2b5c2c8
+4	369	7449418476425523	CMakeFiles/leetcode.dir/Day1_RomantoInteger.cpp.obj	baa6629fb2b5c2c8
+370	489	7449418480079540	leetcode.exe	f1c55811693e440f
