@@ -1,8 +1,17 @@
 # ninja log v6
 8	1061	7446823055704587	CMakeFiles/leetcode.dir/main.cpp.obj	82db5ce52090c2fc
-4	359	7449261195571843	build.ninja	1d13941f05183645
-403	529	7449417340249949	leetcode.exe	f1c55811693e440f
+4	359	7449994516183908	build.ninja	1d13941f05183645
+563	685	7449899490645235	leetcode.exe	cd2904c648999cf7
+3	563	7449899485039223	CMakeFiles/leetcode.dir/Day2_TwoSum.cpp.obj	bad5208f8fa7c6bd
 164	1190	7446823057258621	CMakeFiles/leetcode.dir/KthDistinctStringinanArray.cpp.obj	d95d9702bd5d2d9d
-4	403	7449417336244712	CMakeFiles/leetcode.dir/Day1_RomantoInteger.cpp.obj	baa6629fb2b5c2c8
-4	369	7449418476425523	CMakeFiles/leetcode.dir/Day1_RomantoInteger.cpp.obj	baa6629fb2b5c2c8
-370	489	7449418480079540	leetcode.exe	f1c55811693e440f
+3	254	7449870350812617	CMakeFiles/leetcode.dir/Day2_IntegertoRoman.cpp.obj	f4ce4a2b1776b991
+3	266	7449858746333121	CMakeFiles/leetcode.dir/Day1_RomantoInteger.cpp.obj	baa6629fb2b5c2c8
+4	252	7450001051754625	CMakeFiles/leetcode.dir/Day2_TwoSum.cpp.obj	bad5208f8fa7c6bd
+14	484	7450001051864628	CMakeFiles/leetcode.dir/Day2_ValidParentheses.cpp.obj	cb85560cd5bf5e87
+484	620	7450001056559680	leetcode.exe	4462c7aab641a041
+3	460	7450001116596010	CMakeFiles/leetcode.dir/Day2_ValidParentheses.cpp.obj	cb85560cd5bf5e87
+460	562	7450001121162067	leetcode.exe	4462c7aab641a041
+7	472	7450001522287610	CMakeFiles/leetcode.dir/Day2_ValidParentheses.cpp.obj	cb85560cd5bf5e87
+472	559	7450001526940752	leetcode.exe	4462c7aab641a041
+4	474	7450002212700456	CMakeFiles/leetcode.dir/Day2_ValidParentheses.cpp.obj	cb85560cd5bf5e87
+474	592	7450002217404890	leetcode.exe	4462c7aab641a041
