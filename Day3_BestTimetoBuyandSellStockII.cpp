@@ -8,6 +8,10 @@
 #include <vector>
 
 int maxProfit(std::vector<int>& prices) {
+
+    // remove sync between printf-cout and cout-cin
+    std::ios::sync_with_stdio(false); std::cin.tie(NULL);
+
     int profit = 0;
 
     for (int i=1; i<prices.size(); i++) {
