@@ -1,8 +1,8 @@
 # ninja log v6
 8	1061	7446823055704587	CMakeFiles/leetcode.dir/main.cpp.obj	82db5ce52090c2fc
 4	252	7450001051754625	CMakeFiles/leetcode.dir/Day2_TwoSum.cpp.obj	bad5208f8fa7c6bd
-353	465	7451059317173633	leetcode.exe	cb8d8e64858492c8
-4	359	7451068209866247	build.ninja	1d13941f05183645
+377	488	7451074387465719	leetcode.exe	25efa3e16fadbfc6
+1	292	7451115374423159	build.ninja	1d13941f05183645
 3	254	7449870350812617	CMakeFiles/leetcode.dir/Day2_IntegertoRoman.cpp.obj	f4ce4a2b1776b991
 164	1190	7446823057258621	CMakeFiles/leetcode.dir/KthDistinctStringinanArray.cpp.obj	d95d9702bd5d2d9d
 4	204	7450280524132055	CMakeFiles/leetcode.dir/Day2_ValidParentheses.cpp.obj	cb85560cd5bf5e87
@@ -11,23 +11,6 @@
 3	247	7450805886104504	CMakeFiles/leetcode.dir/Day3_MergeTwoSortedLists.cpp.obj	fbb2be8e506d2aff
 3	219	7451021319617223	CMakeFiles/leetcode.dir/Day3_BestTimetoBuyandSellStock.cpp.obj	b43f40002d86ebae
 12	267	7451007885919420	CMakeFiles/leetcode.dir/Day3_BestTimetoBuyandSellStockII.cpp.obj	261914f669ecf18e
-4	352	7451059313686385	CMakeFiles/leetcode.dir/Day3_ValidPalindrome.cpp.obj	100a45d43170cfe4
-1	292	7451068209866247	build.ninja	1d13941f05183645
 12	179	7451068210237051	CMakeFiles/leetcode.dir/Day3_ValidPalindrome.cpp.obj	100a45d43170cfe4
 4	181	7451068210156930	CMakeFiles/leetcode.dir/Day3_BestTimetoBuyandSellStock_II.cpp.obj	31f43787f318057f
-23	426	7451068210346753	CMakeFiles/leetcode.dir/Day3_ValidPalindrome_II.cpp.obj	379cae6dca6a9936
-426	522	7451068214376130	leetcode.exe	25efa3e16fadbfc6
-4	374	7451068331400573	CMakeFiles/leetcode.dir/Day3_ValidPalindrome_II.cpp.obj	379cae6dca6a9936
-375	487	7451068335107786	leetcode.exe	25efa3e16fadbfc6
-3	371	7451068399204047	CMakeFiles/leetcode.dir/Day3_ValidPalindrome_II.cpp.obj	379cae6dca6a9936
-371	492	7451068402886343	leetcode.exe	25efa3e16fadbfc6
-4	354	7451068469551266	CMakeFiles/leetcode.dir/Day3_ValidPalindrome_II.cpp.obj	379cae6dca6a9936
-354	460	7451068473051164	leetcode.exe	25efa3e16fadbfc6
-4	375	7451068529556770	CMakeFiles/leetcode.dir/Day3_ValidPalindrome_II.cpp.obj	379cae6dca6a9936
-375	503	7451068533261117	leetcode.exe	25efa3e16fadbfc6
-3	357	7451070163962757	CMakeFiles/leetcode.dir/Day3_ValidPalindrome_II.cpp.obj	379cae6dca6a9936
-358	479	7451070167507721	leetcode.exe	25efa3e16fadbfc6
-4	372	7451073296221966	CMakeFiles/leetcode.dir/Day3_ValidPalindrome_II.cpp.obj	379cae6dca6a9936
-373	492	7451073299908697	leetcode.exe	25efa3e16fadbfc6
 3	377	7451074383721455	CMakeFiles/leetcode.dir/Day3_ValidPalindrome_II.cpp.obj	379cae6dca6a9936
-377	488	7451074387465719	leetcode.exe	25efa3e16fadbfc6

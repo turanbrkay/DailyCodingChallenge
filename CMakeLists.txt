@@ -12,4 +12,5 @@ add_executable(leetcode
         Day3_BestTimetoBuyandSellStock.cpp
         Day3_BestTimetoBuyandSellStock_II.cpp
         Day3_ValidPalindrome.cpp
-        "Day3_ValidPalindrome_II.cpp")
+        "Day3_ValidPalindrome_II.cpp"
+        Day3_InvertBinaryTree.cpp)
