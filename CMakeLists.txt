@@ -10,5 +10,6 @@ add_executable(leetcode
         Day2_ValidParentheses.cpp
         "Day3_MergeTwoSortedLists.cpp"
         Day3_BestTimetoBuyandSellStock.cpp
-        Day3_BestTimetoBuyandSellStockII.cpp
-        Day3_ValidPalindrome.cpp)
+        Day3_BestTimetoBuyandSellStock_II.cpp
+        Day3_ValidPalindrome.cpp
+        "Day3_ValidPalindrome_II.cpp")
