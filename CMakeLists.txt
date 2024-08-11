@@ -7,4 +7,7 @@ add_executable(leetcode
         Day1_RomantoInteger.cpp
         Day2_IntegertoRoman.cpp
         Day2_TwoSum.cpp
-        Day2_ValidParentheses.cpp)
+        Day2_ValidParentheses.cpp
+        "Day3_MergeTwoSortedLists.cpp"
+        Day3_BestTimetoBuyandSellStock.cpp
+        Day3_BestTimetoBuyandSellStockII.cpp)
