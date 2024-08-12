@@ -109,6 +109,18 @@ build CMakeFiles/leetcode.dir/Day3_InvertBinaryTree.cpp.obj: CXX_COMPILER__leetc
   OBJECT_DIR = CMakeFiles\leetcode.dir
   OBJECT_FILE_DIR = CMakeFiles\leetcode.dir
 
+build CMakeFiles/leetcode.dir/Day4_ValidAnagram.cpp.obj: CXX_COMPILER__leetcode_unscanned_Debug C$:/Users/turan/OneDrive/Documents/leetcode/Day4_ValidAnagram.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles\leetcode.dir\Day4_ValidAnagram.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcode.dir
+
+build CMakeFiles/leetcode.dir/Day4_BinarySearch.cpp.obj: CXX_COMPILER__leetcode_unscanned_Debug C$:/Users/turan/OneDrive/Documents/leetcode/Day4_BinarySearch.cpp || cmake_object_order_depends_target_leetcode
+  DEP_FILE = CMakeFiles\leetcode.dir\Day4_BinarySearch.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcode.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcode.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target leetcode
@@ -117,7 +129,7 @@ build CMakeFiles/leetcode.dir/Day3_InvertBinaryTree.cpp.obj: CXX_COMPILER__leetc
 #############################################
 # Link the executable leetcode.exe
 
-build leetcode.exe: CXX_EXECUTABLE_LINKER__leetcode_Debug CMakeFiles/leetcode.dir/Day1_RomantoInteger.cpp.obj CMakeFiles/leetcode.dir/Day2_IntegertoRoman.cpp.obj CMakeFiles/leetcode.dir/Day2_TwoSum.cpp.obj CMakeFiles/leetcode.dir/Day2_ValidParentheses.cpp.obj CMakeFiles/leetcode.dir/Day3_MergeTwoSortedLists.cpp.obj CMakeFiles/leetcode.dir/Day3_BestTimetoBuyandSellStock.cpp.obj CMakeFiles/leetcode.dir/Day3_BestTimetoBuyandSellStock_II.cpp.obj CMakeFiles/leetcode.dir/Day3_ValidPalindrome.cpp.obj CMakeFiles/leetcode.dir/Day3_ValidPalindrome_II.cpp.obj CMakeFiles/leetcode.dir/Day3_InvertBinaryTree.cpp.obj
+build leetcode.exe: CXX_EXECUTABLE_LINKER__leetcode_Debug CMakeFiles/leetcode.dir/Day1_RomantoInteger.cpp.obj CMakeFiles/leetcode.dir/Day2_IntegertoRoman.cpp.obj CMakeFiles/leetcode.dir/Day2_TwoSum.cpp.obj CMakeFiles/leetcode.dir/Day2_ValidParentheses.cpp.obj CMakeFiles/leetcode.dir/Day3_MergeTwoSortedLists.cpp.obj CMakeFiles/leetcode.dir/Day3_BestTimetoBuyandSellStock.cpp.obj CMakeFiles/leetcode.dir/Day3_BestTimetoBuyandSellStock_II.cpp.obj CMakeFiles/leetcode.dir/Day3_ValidPalindrome.cpp.obj CMakeFiles/leetcode.dir/Day3_ValidPalindrome_II.cpp.obj CMakeFiles/leetcode.dir/Day3_InvertBinaryTree.cpp.obj CMakeFiles/leetcode.dir/Day4_ValidAnagram.cpp.obj CMakeFiles/leetcode.dir/Day4_BinarySearch.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\leetcode.dir
