@@ -15,4 +15,8 @@ add_executable(leetcode
         "Day3_ValidPalindrome_II.cpp"
         Day3_InvertBinaryTree.cpp
         Day4_ValidAnagram.cpp
-        Day4_BinarySearch.cpp)
+        Day4_BinarySearch.cpp
+        Day5_LowestCommonAncestorofaBinarySearchTree.cpp
+        Day5_LowestCommonAncestorofaBinarySearchTree_II.cpp
+        Day5_BinaryTreePaths.cpp
+        Day6_BalancedBinaryTree.cpp)
