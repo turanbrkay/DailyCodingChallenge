@@ -19,4 +19,9 @@ add_executable(leetcode
         Day5_LowestCommonAncestorofaBinarySearchTree.cpp
         Day5_LowestCommonAncestorofaBinarySearchTree_II.cpp
         Day5_BinaryTreePaths.cpp
-        Day6_BalancedBinaryTree.cpp)
+        Day6_BalancedBinaryTree.cpp
+        Day7_LinkedListCycle.cpp
+        Day7_LinkedListCycle_II.cpp
+        Day7_ReverseLinkedList.cpp
+        Day7_OddEvenLinkedList.cpp
+)
