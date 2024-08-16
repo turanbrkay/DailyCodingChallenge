@@ -2,7 +2,7 @@
 8	1061	7446823055704587	CMakeFiles/leetcode.dir/main.cpp.obj	82db5ce52090c2fc
 4	252	7450001051754625	CMakeFiles/leetcode.dir/Day2_TwoSum.cpp.obj	bad5208f8fa7c6bd
 526	643	7453726148776294	leetcode.exe	e8081d953889368c
-1	292	7454524012927383	build.ninja	1d13941f05183645
+1	292	7454716703663618	build.ninja	1d13941f05183645
 3	254	7449870350812617	CMakeFiles/leetcode.dir/Day2_IntegertoRoman.cpp.obj	f4ce4a2b1776b991
 164	1190	7446823057258621	CMakeFiles/leetcode.dir/KthDistinctStringinanArray.cpp.obj	d95d9702bd5d2d9d
 4	204	7450280524132055	CMakeFiles/leetcode.dir/Day2_ValidParentheses.cpp.obj	cb85560cd5bf5e87

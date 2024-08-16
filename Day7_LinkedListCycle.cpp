@@ -7,6 +7,7 @@
 #if 0
 #include <unordered_map>
 #include <iostream>
+const char optimize = []() {std::ios::sync_with_stdio(0); std::cin.tie(0); std::cout.tie(0); return 'c';}();
 
 
  struct ListNode {
@@ -16,7 +17,7 @@
  };
 
 bool hasCycle(ListNode *head) {
-    std::cin.tie(NULL); std::ios::sync_with_stdio(false);
+
     ListNode *slowPointer=head, *fastPointer=head;
 
 

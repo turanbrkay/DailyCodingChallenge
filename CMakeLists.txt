@@ -24,4 +24,6 @@ add_executable(leetcode
         Day7_LinkedListCycle_II.cpp
         Day7_ReverseLinkedList.cpp
         Day7_OddEvenLinkedList.cpp
+        Day7_RemoveNodesFromLinkedList.cpp
+        Day7_DeleteNodeinaLinkedList.cpp
 )
