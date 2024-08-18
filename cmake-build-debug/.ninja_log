@@ -1,12 +1,13 @@
 # ninja log v6
+36	263	7457149396914087	CMakeFiles/leetcode.dir/Day7_RemoveNodesFromLinkedList.cpp.obj	6506e1fe4942edac
 8	1061	7446823055704587	CMakeFiles/leetcode.dir/main.cpp.obj	82db5ce52090c2fc
 4	252	7450001051754625	CMakeFiles/leetcode.dir/Day2_TwoSum.cpp.obj	bad5208f8fa7c6bd
-526	643	7453726148776294	leetcode.exe	e8081d953889368c
-1	292	7454716703663618	build.ninja	1d13941f05183645
+378	518	7457149400332747	leetcode.exe	76cbf5388594158e
+1	292	7457219465318280	build.ninja	1d13941f05183645
 3	254	7449870350812617	CMakeFiles/leetcode.dir/Day2_IntegertoRoman.cpp.obj	f4ce4a2b1776b991
 164	1190	7446823057258621	CMakeFiles/leetcode.dir/KthDistinctStringinanArray.cpp.obj	d95d9702bd5d2d9d
-4	204	7450280524132055	CMakeFiles/leetcode.dir/Day2_ValidParentheses.cpp.obj	cb85560cd5bf5e87
 3	266	7449858746333121	CMakeFiles/leetcode.dir/Day1_RomantoInteger.cpp.obj	baa6629fb2b5c2c8
+4	204	7450280524132055	CMakeFiles/leetcode.dir/Day2_ValidParentheses.cpp.obj	cb85560cd5bf5e87
 4	390	7450321861947781	CMakeFiles/leetcode.dir/Day2__MergeTwoSortedLists.cpp.obj	59e72c1a89002dce
 3	247	7450805886104504	CMakeFiles/leetcode.dir/Day3_MergeTwoSortedLists.cpp.obj	fbb2be8e506d2aff
 3	219	7451021319617223	CMakeFiles/leetcode.dir/Day3_BestTimetoBuyandSellStock.cpp.obj	b43f40002d86ebae
@@ -22,6 +23,11 @@
 3	241	7451852694889307	CMakeFiles/leetcode.dir/Day4_ValidAnagram.cpp.obj	71cb7b84ea97cf20
 2	231	7452914403178186	CMakeFiles/leetcode.dir/Day5_LowestCommonAncestorofaBinarySearchTree.cpp.obj	8490f1bdb569de9c
 5	333	7454514992516374	CMakeFiles/leetcode.dir/Day6_BalancedBinaryTree.cpp.obj	7721067b909d7514
-17	330	7454514992626412	CMakeFiles/leetcode.dir/Day7_LinkedListCycle.cpp.obj	1bbe3d61b48bddb3
+4	249	7457149396599861	CMakeFiles/leetcode.dir/Day7_LinkedListCycle.cpp.obj	1bbe3d61b48bddb3
 27	379	7454514992736421	CMakeFiles/leetcode.dir/Day7_LinkedListCycle_II.cpp.obj	e688313a275ce45d
-38	777	7454514992847136	CMakeFiles/leetcode.dir/Day7_ReverseLinkedList.cpp.obj	567f610afb4aa603
+14	256	7457149396698542	CMakeFiles/leetcode.dir/Day7_ReverseLinkedList.cpp.obj	567f610afb4aa603
+23	257	7457149396783634	CMakeFiles/leetcode.dir/Day7_OddEvenLinkedList.cpp.obj	519183e6fd8599a6
+51	282	7457149397059406	CMakeFiles/leetcode.dir/Day7_DeleteNodeinaLinkedList.cpp.obj	167a2446a728d6c5
+61	284	7457149397164470	CMakeFiles/leetcode.dir/Day8_ImplementQueueusingStacks.cpp.obj	3a8aa02f61377af
+85	301	7457149397409760	CMakeFiles/leetcode.dir/Day8_FirstBadVersion.cpp.obj	ebce09344787162d
+72	378	7457149397279554	CMakeFiles/leetcode.dir/Day8_ImplementStackusingQueues.cpp.obj	e4785c55c8b8c3bd

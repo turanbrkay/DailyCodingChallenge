@@ -26,4 +26,7 @@ add_executable(leetcode
         Day7_OddEvenLinkedList.cpp
         Day7_RemoveNodesFromLinkedList.cpp
         Day7_DeleteNodeinaLinkedList.cpp
+        Day8_ImplementQueueusingStacks.cpp
+        Day8_ImplementStackusingQueues.cpp
+        Day8_FirstBadVersion.cpp
 )
