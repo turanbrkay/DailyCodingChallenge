@@ -29,4 +29,8 @@ add_executable(leetcode
         Day8_ImplementQueueusingStacks.cpp
         Day8_ImplementStackusingQueues.cpp
         Day8_FirstBadVersion.cpp
+        Day9_RansomNote.cpp
+        Day9_ClimbingStairs.cpp
+        Day9_LongestPalindrome.cpp
+        Day9_MajorityElement.cpp
 )
