@@ -33,4 +33,8 @@ add_executable(leetcode
         Day9_ClimbingStairs.cpp
         Day9_LongestPalindrome.cpp
         Day9_MajorityElement.cpp
+        Day10_MergeSortedArray.cpp
+        Day10_RemoveElement.cpp
+        Day10_RemoveDuplicatesfromSortedArray.cpp
+        Day10_RemoveDuplicatesfromSortedArray_II.cpp
 )

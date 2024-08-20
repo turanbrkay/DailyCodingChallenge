@@ -1,8 +1,8 @@
 # ninja log v6
 36	263	7457149396914087	CMakeFiles/leetcode.dir/Day7_RemoveNodesFromLinkedList.cpp.obj	6506e1fe4942edac
 8	1061	7446823055704587	CMakeFiles/leetcode.dir/main.cpp.obj	82db5ce52090c2fc
-1	292	7457862784417576	build.ninja	1d13941f05183645
-378	518	7457149400332747	leetcode.exe	76cbf5388594158e
+1	262	7458975666796486	build.ninja	1d13941f05183645
+344	492	7458930833990659	leetcode.exe	2b3b23f30ec9e92
 4	252	7450001051754625	CMakeFiles/leetcode.dir/Day2_TwoSum.cpp.obj	bad5208f8fa7c6bd
 164	1190	7446823057258621	CMakeFiles/leetcode.dir/KthDistinctStringinanArray.cpp.obj	d95d9702bd5d2d9d
 3	254	7449870350812617	CMakeFiles/leetcode.dir/Day2_IntegertoRoman.cpp.obj	f4ce4a2b1776b991
@@ -32,11 +32,7 @@
 5	163	7457862207910361	CMakeFiles/leetcode.dir/Day8_FirstBadVersion.cpp.obj	ebce09344787162d
 72	378	7457149397279554	CMakeFiles/leetcode.dir/Day8_ImplementStackusingQueues.cpp.obj	e4785c55c8b8c3bd
 15	165	7457862208015427	CMakeFiles/leetcode.dir/Day9_RansomNote.cpp.obj	1cfaef81a374bb0b
-26	173	7457862208115480	CMakeFiles/leetcode.dir/Day9_ClimbingStairs.cpp.obj	df1551f6a26803fa
-60	237	7457862208455533	CMakeFiles/leetcode.dir/Day9_LongestPalindrome.cpp.obj	aeda1ab400eff43c
-12	370	7457862249152241	CMakeFiles/leetcode.dir/Day9_MajorityElement.cpp.obj	2ce3956288faf15b
-1	262	7457862784417576	build.ninja	1d13941f05183645
 3	128	7457862784707129	CMakeFiles/leetcode.dir/Day9_ClimbingStairs.cpp.obj	df1551f6a26803fa
-128	258	7457862785964284	leetcode.exe	98713c6359ef67fb
-4	364	7457863040178068	CMakeFiles/leetcode.dir/Day9_MajorityElement.cpp.obj	2ce3956288faf15b
-364	466	7457863043782689	leetcode.exe	98713c6359ef67fb
+60	237	7457862208455533	CMakeFiles/leetcode.dir/Day9_LongestPalindrome.cpp.obj	aeda1ab400eff43c
+4	321	7458926911239115	CMakeFiles/leetcode.dir/Day9_MajorityElement.cpp.obj	2ce3956288faf15b
+8	344	7458930830626815	CMakeFiles/leetcode.dir/Day10_MergeSortedArray.cpp.obj	5d507098b52ff17a
