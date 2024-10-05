@@ -1,6 +1,25 @@
 
 
 
+#include <iostream>
+
+void swp(int &a, int &b) {
+ int c = a;
+        a=b;
+        b=c;
+
+}
+
+int main() {
+        int *k;
+        *k = 2;
+        int *t;
+        *t=4;
+        swp(*k,*t);
+        std::cout << k << std::endl;
+        std::cout << t << std::endl;
+}
+
 // greedy solution
 #if 0
 #include <vector>
