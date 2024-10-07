@@ -3,7 +3,7 @@
 
 #include <unordered_map>
 #include <vector>
-#if 1
+#if 0
 
 class RandomizedSet {
 public:
